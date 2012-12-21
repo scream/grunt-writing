@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # writing
 
 writing project
@@ -29,6 +30,12 @@ _(Coming soon)_
 
 ## Release History
 _(Nothing yet)_
+=======
+grunt-writing
+=============
+
+writing project
+>>>>>>> e8618174d5239a68746f7a5f8e6679b11c9c5ffc
 =======
 grunt-writing
 =============
